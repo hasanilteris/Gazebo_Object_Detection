@@ -1,0 +1,4 @@
+Invoking command in '/home/hasan/yolobot/build/yolobot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hasan/yolobot/build/yolobot_gazebo -- -j8 -l8
+Invoked command in '/home/hasan/yolobot/build/yolobot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hasan/yolobot/build/yolobot_gazebo -- -j8 -l8
+Invoking command in '/home/hasan/yolobot/build/yolobot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hasan/yolobot/build/yolobot_gazebo
+Invoked command in '/home/hasan/yolobot/build/yolobot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hasan/yolobot/build/yolobot_gazebo

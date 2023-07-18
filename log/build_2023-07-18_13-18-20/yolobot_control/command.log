@@ -1,0 +1,6 @@
+Invoking command in '/home/hasan/yolobot/build/yolobot_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/hasan/yolobot/src/yolobot_control -DCMAKE_INSTALL_PREFIX=/home/hasan/yolobot/install/yolobot_control
+Invoked command in '/home/hasan/yolobot/build/yolobot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/hasan/yolobot/src/yolobot_control -DCMAKE_INSTALL_PREFIX=/home/hasan/yolobot/install/yolobot_control
+Invoking command in '/home/hasan/yolobot/build/yolobot_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hasan/yolobot/build/yolobot_control -- -j8 -l8
+Invoked command in '/home/hasan/yolobot/build/yolobot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hasan/yolobot/build/yolobot_control -- -j8 -l8
+Invoking command in '/home/hasan/yolobot/build/yolobot_control': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hasan/yolobot/build/yolobot_control
+Invoked command in '/home/hasan/yolobot/build/yolobot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hasan/yolobot/build/yolobot_control

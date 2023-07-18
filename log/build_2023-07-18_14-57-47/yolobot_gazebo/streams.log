@@ -1,0 +1,25 @@
+[0.026s] Invoking command in '/home/hasan/yolobot/build/yolobot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hasan/yolobot/build/yolobot_gazebo -- -j8 -l8
+[0.066s] Invoked command in '/home/hasan/yolobot/build/yolobot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hasan/yolobot/build/yolobot_gazebo -- -j8 -l8
+[0.103s] Invoking command in '/home/hasan/yolobot/build/yolobot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hasan/yolobot/build/yolobot_gazebo
+[0.114s] -- Install configuration: ""
+[0.115s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo//launch
+[0.115s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo//launch/yolobot_launch.py
+[0.115s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo//launch/start_world_launch.py
+[0.115s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo//worlds
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo//worlds/yolo_test.world
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/ament_index/resource_index/package_run_dependencies/yolobot_gazebo
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/ament_index/resource_index/parent_prefix_path/yolobot_gazebo
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/environment/ament_prefix_path.sh
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/environment/ament_prefix_path.dsv
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/environment/path.sh
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/environment/path.dsv
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/local_setup.bash
+[0.116s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/local_setup.sh
+[0.117s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/local_setup.zsh
+[0.118s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/local_setup.dsv
+[0.118s] -- Installing: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/package.dsv
+[0.118s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/ament_index/resource_index/packages/yolobot_gazebo
+[0.119s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/cmake/yolobot_gazeboConfig.cmake
+[0.119s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/cmake/yolobot_gazeboConfig-version.cmake
+[0.119s] -- Up-to-date: /home/hasan/yolobot/install/yolobot_gazebo/share/yolobot_gazebo/package.xml
+[0.121s] Invoked command in '/home/hasan/yolobot/build/yolobot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hasan/yolobot/build/yolobot_gazebo

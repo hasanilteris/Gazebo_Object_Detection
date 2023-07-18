@@ -1,0 +1,6 @@
+Invoking command in '/home/hasan/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/hasan/yolobot/src/yolobot_recognition -DCMAKE_INSTALL_PREFIX=/home/hasan/yolobot/install/yolobot_recognition
+Invoked command in '/home/hasan/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/hasan/yolobot/src/yolobot_recognition -DCMAKE_INSTALL_PREFIX=/home/hasan/yolobot/install/yolobot_recognition
+Invoking command in '/home/hasan/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hasan/yolobot/build/yolobot_recognition -- -j8 -l8
+Invoked command in '/home/hasan/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hasan/yolobot/build/yolobot_recognition -- -j8 -l8
+Invoking command in '/home/hasan/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hasan/yolobot/build/yolobot_recognition
+Invoked command in '/home/hasan/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hasan/yolobot/build/yolobot_recognition

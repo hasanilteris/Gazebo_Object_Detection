@@ -1,3 +1,4 @@
 # object_and_color_detection_gazebo
 
-Ros2 Foxy ve Gazebo simülasyonunda HSV formatında renk tespiti ve Yolov5 kullanımı ile nesne tespiti çalışması
+Ubuntu 20.04 üzerinde ROS2 Foxy ve Gazebo Ortamında renk aralığı tespiti çalışması.
+Ubuntu 20.04 üzerinde ROS2 Foxy ve Gazebo Ortamında Yolov5 ve COCO veriseti kullanarak nesne tespiti çalışması.
